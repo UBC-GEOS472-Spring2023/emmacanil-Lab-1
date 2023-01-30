@@ -1,7 +1,0 @@
-echo "# emmacanil-web" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/UBC-GEOS472-Spring2023/emmacanil-web.git
-git push -u origin main
