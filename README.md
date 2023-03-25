@@ -3,7 +3,7 @@
 
 ![Screen Shot 2023-03-24 at 11 15 27 PM](https://user-images.githubusercontent.com/122398935/227700554-305d8bf7-f255-44a4-8942-ffc613099ea8.png)
 
-[Link to Map]: file:///Users/emmacanil/Dropbox/My%20Mac%20(Emma%E2%80%99s%20MacBook%20Pro)/Downloads/GEOS_472_Lab_1_2023_03_24_22_45_46%202/index.html
+[Link to Map](file:///Users/emmacanil/Dropbox/My%20Mac%20(Emma%E2%80%99s%20MacBook%20Pro)/Downloads/GEOS_472_Lab_1_2023_03_24_22_45_46%202/index.html)
 
 Reflective analysis: 
 
